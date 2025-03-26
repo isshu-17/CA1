@@ -12,11 +12,12 @@ int main() {
 				   printf("b.tech ece")
 				   break;
 				   print;
-break:
+                                   break:
 
 			   case'3':
 				   printf("b.tech mech")
 				   break;
+print:L
 				   return 1;
 			   case'4':
 				   printf("b.tech iot")

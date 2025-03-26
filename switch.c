@@ -13,3 +13,6 @@ int main() {
 			   case'3':
 				   printf("b.tech mech")
 				   break;
+			   case'4':
+				   printf("b.tech iot")
+			           break;

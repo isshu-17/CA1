@@ -12,6 +12,8 @@ int main() {
 				   printf("b.tech ece")
 				   break;
 				   print;
+break:
+
 			   case'3':
 				   printf("b.tech mech")
 				   break;

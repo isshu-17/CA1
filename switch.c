@@ -10,6 +10,7 @@ int main() {
 			   case'2':
 				   printf("b.tech ece")
 				   break;
+				   print;
 			   case'3':
 				   printf("b.tech mech")
 				   break;

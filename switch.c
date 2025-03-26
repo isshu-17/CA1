@@ -9,4 +9,7 @@ int main() {
 		   switch {
 			   case'2':
 				   printf("b.tech ece")
-				   break;	   
+				   break;
+			   case'3':
+				   printf("b.tech mech")
+				   break;

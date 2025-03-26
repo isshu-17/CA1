@@ -17,8 +17,10 @@ int main() {
 			   case'3':
 				   printf("b.tech mech")
 				   break;
-print:L
+                                   print:
 				   return 1;
 			   case'4':
 				   printf("b.tech iot")
-			           break;(change)
+			           break;
+                                   return 0;
+				   (change)

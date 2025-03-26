@@ -2,14 +2,7 @@
 
 int main() {
 
-  char op;
-  double first, second;
-  printf("Enter an operator (+, -, *, /): ");
-  scanf("%c", &op);
-  printf("Enter two operands: ");
-  scanf("%lf %lf", &first, &second);
-
-  switch (op) {
-    case 1:
-      printf("%.1lf + %.1lf = %.1lf", first, second, first + second);
-      break;
+   switch {
+	   case '1':
+		   printf("b.tech cse);
+		   break;

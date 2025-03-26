@@ -6,6 +6,7 @@ int main() {
 	   case '1':
 		   printf("b.tech cse);
 		   break;
+		   return;
 		   switch {
 			   case'2':
 				   printf("b.tech ece")

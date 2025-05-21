@@ -8,6 +8,12 @@ int main() {
 		   break;
 		   return;
 		   switch {
+
+
+
+
+pesfisdgdbhj
+
 			   case'2':
 				   printf("b.tech ece")
 				   break;

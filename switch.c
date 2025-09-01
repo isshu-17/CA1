@@ -18,10 +18,15 @@ pesfisdgdbhj
 				   printf("b.tech ece")
 				   break;
 				   print;
+                                   break:
+
 			   case'3':
 				   printf("b.tech mech")
 				   break;
+                                   print:
 				   return 1;
 			   case'4':
 				   printf("b.tech iot")
-			           break;(change)
+			           break;
+                                   return 0;
+				   (change)
